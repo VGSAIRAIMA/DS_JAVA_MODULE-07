@@ -1,5 +1,5 @@
 # Ex6 Right Rotation LinkedList
-## DATE:07.08.2026        
+## DATE:20-09-26
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
@@ -18,8 +18,8 @@ Display the rotated linked list.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: B PRABHANJAN
-RegisterNumber:  212224230033
+Developed by: V G SAIRAIMA
+RegisterNumber: 212225040359
 */
 ```
 ```
