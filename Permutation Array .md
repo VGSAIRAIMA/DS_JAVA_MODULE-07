@@ -1,5 +1,5 @@
 # Ex9 Finding the Longest Length of Nested Set in a Permutation Array
-## DATE:07.08.2026
+## DATE:20-09-26
 ## AIM:
 To write a program that finds the length of the longest set s[k] defined as s[k] = { nums[k], nums[nums[k]], nums[nums[nums[k]]], … },where the iteration stops before a duplicate element occurs.
 
@@ -20,8 +20,8 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 Program to find the Longest Length of Nested Set in a Permutation Array
-Developed by: B PRABHANJAN
-RegisterNumber:  212225040305
+Developed by: V G SAIRAIMA
+RegisterNumber: 212225040359
 */
 ```
 ```
